@@ -2,7 +2,7 @@
 .pub_title {font-style: italic; display: block; color:black;}
 .pub_what {display: block; color: grey; font-size:10pt;}
 
-#wibisono_pic{float:right;clear:both;}
+#wibisono_pic{float:right;clear:both; padding:5px;}
 #contact_info{clear:both;}
 #spacer{clear:both;}
 body{margin-right:20%;margin-left:20%;margin-top:5%;margin-bottom:5%;}
