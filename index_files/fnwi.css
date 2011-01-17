@@ -1,0 +1,59 @@
+/* 
+    fnwi.css
+*/
+
+BODY		{ font-family: sans-serif; font-size: 11pt; background-color: white; color: black; text-align:  justify; }
+H1 		{ font-family: sans-serif; font-weight: bold; font-size: 12pt; text-decoration: none; }
+H2 		{ font-family: sans-serif; font-weight: bold; font-size: 11pt; text-decoration: none; }
+H3 		{ font-family: sans-serif; font-weight: bold; font-size: 10pt; text-decoration: none; }
+H4		{ font-family: sans-serif; font-weight: normal; font-size: 10pt; text-decoration: none; }
+H5		{ font-family: sans-serif; font-weight: normal; font-size: 10pt; text-decoration: none; }
+H6		{ font-family: sans-serif; font-weight: normal; font-size: 10pt; text-decoration: none; }
+SELECT 		{ font-family: sans-serif; font-size: 9pt; }
+TABLE, TR, TD	{ font-family: sans-serif; font-size: 9pt; } 
+TABLE 		{ font-family: sans-serif; text-align: left; vertical-align: bottom; } 
+PRE 		{ font-family: courier,monospace; padding-left: 5mm; background-color: #eeeeee; color: black;} 
+TT 		{ font-family: courier,monospace; padding-left: 0cm; } 
+DT 		{ padding-top: 0.5em; font-weight: bold; }
+BR 		{ padding-top: 0.3em; } 
+TD 		{ vertical-align: top; } 
+P 		{ text-align: justify; } 
+/* OL, UL 		{ padding-left: 0cm; } */
+EM 		{ font-weight: bold; }
+IMG		{ display: inline; margin-left: 0pt; padding-left: 0pt; border: 0px; }
+
+/* Special layout for header */
+TD.header	{ vertical-align: bottom; border-style: none; text-align: right; }
+TD.dept		{ vertical-align: bottom; font-size: 12pt; text-align: right; font-family: sans-serif; 
+		  font-weight: bold; }
+IMG.header	{ display: block; margin-left: 0pt; padding-left: 0pt; border: 0px; }
+
+/* Navigation bar */
+
+TD.navbar	{ vertical-align: top; font-size: 10pt; font-weight: bold; text-align: left; 
+		  color: #336699; margin: 0px; }
+
+/* Menu bar */
+
+TD.menu		{ vertical-align: text-bottom; font-size: 10pt; text-align: right; margin: 0px; }
+TD.leftmenu	{ vertical-align: text-bottom; font-size: 10pt; text-align: left;  margin: 0px; }
+TD.leftmenuital { vertical-align: text-bottom; font-size: 10pt; font-style: italic; text-align: left;
+		   margin: 0px; }
+/* Footer */
+TD.footer	{ vertical-align: text-bottom; font-size: 10pt; margin: 0px; color: #888888; }
+
+A.footer:visited	{ display: inline; text-decoration: none; color: #888888; }
+A.footer:link		{ display: inline; text-decoration: none; color: #888888; }
+A.footer:hover		{ display: inline; text-decoration: none; color: #444444; }
+
+/* menu left */
+
+A.nav			{ display: inline; font-family: sans-serif; text-decoration: none;
+			  font-weight: bold; color: #336699; }
+A.nav:link		{ color: #336699; }
+A.nav:visited		{ color: #336699; }
+A.nav:hover		{ color: black; }
+
+A:visited		{ display: inline; text-decoration: none; color: #336699; }
+A:link			{ display: inline; text-decoration: none; color: #336699; }
+A:hover			{ display: inline; text-decoration: none; color: black; }
