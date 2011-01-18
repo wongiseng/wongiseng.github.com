@@ -5,4 +5,5 @@
 #wibisono_pic{float:right;clear:both; padding:5px;}
 #contact_info{clear:both;}
 #spacer{clear:both;}
-body{margin-right:20%;margin-left:20%;margin-top:5%;margin-bottom:5%;}
+body{margin-right:20%;margin-left:20%;margin-top:5%;margin-bottom:5%;
+     background:#fff url(/images/modules/header/background-v2.png) 0 0 repeat-x;}
