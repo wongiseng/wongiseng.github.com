@@ -62,6 +62,6 @@ A:hover			{ display: inline; text-decoration: none; color: black; }
 .pub_title {font-style: italic; display: block; color:black;}
 .pub_what {display: block; color: grey; font-size:10pt;}
 
-wibisono_pic{float:right;clear:both; padding:5px; height: 40px;}
+#wibisono_pic{float:right;clear:both; padding:5px; height:80px;}
 #contact_info{clear:both;}
 #spacer{clear:both;}
